@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1440218441 source:c:\users\luis\desktop\projects\prjsnake\main.cpp
+	<iostream>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+
+1439911258 source:e:\prjsnake\main.cpp
+	<iostream>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+
