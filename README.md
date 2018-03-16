@@ -2,36 +2,36 @@
 
 Jogo Snake desenvolvido em C++
 
-# Objetivo
+## Objetivo
 
-	O jogador é uma cobrinha e precisa se alimentar para crescer. Ao comer as barrinhas que aparecem na tela a cobra cresce;
-	O jogo é composto por 2 dificuldades Easy e Hard.
+O jogador é uma cobrinha e precisa se alimentar para crescer. Ao comer as barrinhas que aparecem na tela a cobra cresce
+O jogo é composto por 2 dificuldades Easy e Hard.
 
-# Dificuldades
+## Dificuldades
 
-	Easy Mode
+* Easy Mode
 		
-		A cobra consegue atravessar as paredes e aparece do outro lado;
+A cobra consegue atravessar as paredes e aparece do outro lado;
 	
-	Hard Mode
+* Hard Mode
 		
-		Caso a cobra encoste na parede o jogador perde;
+Caso a cobra encoste na parede o jogador perde;
 
 
-# Controles
+## Controles
 
-	Menu
+* Menu
 	
-		W para ir pra cima;
-		S para ir para baixo;
-		ENTER para selecionar a opção de modo de jogo desejada;
+W para ir pra cima;
+S para ir para baixo;
+ENTER para selecionar a opção de modo de jogo desejada;
 		
-	Jogo
+* Jogo
 	
-		W,A,S,D para se movimentar nas quatro direções.
+	W,A,S,D para se movimentar nas quatro direções.
 		
-# Autor
+## Autor
 
-	Luis Guilherme da Costa Martins
+Luis Guilherme da Costa Martins
 		
 		
